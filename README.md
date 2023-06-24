@@ -1,5 +1,7 @@
 # Código realizado durante o programa de bolsas da CompassUol 
+
 ![gif](imgs/exemplo.gif)
+
 
 ## Para a utilização siga esse passo a passo:
 - [x] Abra o código dentro do colab
