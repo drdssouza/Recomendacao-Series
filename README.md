@@ -12,7 +12,7 @@
 - [x] Logo após o término da execução, será salvo em .json os arquivos extraidos da API como mostra na imagem abaixo<br>
 ![Arquivos Json](imgs/arquivosJSON.png)<br>
 - [x] Com os arquivos .json gerados, siga para o próximo passo
-- [x] Dentro da função **def carregar_series_from_json():** localize a primeira estrutura de repetição
+- [x] Dentro da função **def carregar_series_from_json():** localize a primeira estrutura de repetição<br>
 - [x] Mude o valor que está dentro do range de acordo com a quantia de arquivos .json gerados <br>
       - Se gerou 10 arquivos, coloque o valor 10.
 - [x] Pode acessar a última cédula e executar ela
