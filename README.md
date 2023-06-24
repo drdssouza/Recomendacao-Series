@@ -1,4 +1,5 @@
 # Código realizado durante o programa de bolsas da CompassUol 
+![opera_SUhQAFRCE2](https://github.com/drdssouza/Recomendacao-Series/assets/107600287/bab85c33-b3db-44f8-b487-b37eb38aaa4f)
 
 
 ## Para a utilização siga esse passo a passo:
